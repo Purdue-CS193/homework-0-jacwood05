@@ -1,8 +1,8 @@
 # Jacob Wood's First CS193 Homework
 
 My favorite things about CS193:
-- The students are very cool
-- The lecture hall is very clean
+- The students are very cool.
+- The lecture hall is very clean.
 
 ## Welcome to GitHub Pages
 
